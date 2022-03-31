@@ -1,0 +1,22 @@
+{
+  "name": "easyclass",
+  "version": "1.0.0",
+  "description": "Trabalho da disciplina Projeto de Desenvolvimento I",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlsfilho2/trabProjeto.git"
+  },
+  "keywords": [
+    "Easy Class"
+  ],
+  "author": "Grupo3",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlsfilho2/trabProjeto/issues"
+  },
+  "homepage": "https://github.com/jlsfilho2/trabProjeto#readme"
+}
