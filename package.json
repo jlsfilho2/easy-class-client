@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/jlsfilho2/trabProjeto/issues"
   },
-  "homepage": "https://github.com/jlsfilho2/trabProjeto#readme"
+  "homepage": "https://github.com/jlsfilho2/trabProjeto#readme",
+  "dependencies": {
+    "@angular/cli": "^13.3.1"
+  }
 }
